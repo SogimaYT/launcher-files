@@ -30,7 +30,7 @@
           "artifact": {
             "size": 3018833,
             "MD5": "add0fba161c4652a96efb4264ec2d9ec",
-            "url": "https://github.com/SogimaYT/launcher-files/blob/main/repo/lib/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar"
+            "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/repo/lib/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "https://github.com/SogimaYT/launcher-files/blob/main/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+                "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 241639,
                 "MD5": "c5cc4613bbdfba3ccf5f0ab85390d0b8",
-                "url": "https://github.com/SogimaYT/launcher-files/blob/main/repo/lib/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar"
+                "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/repo/lib/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 2514991,
                 "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
-                "url": "https://github.com/SogimaYT/launcher-files/blob/main/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+                "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 219554,
                 "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
-                "url": "https://github.com/SogimaYT/launcher-files/blob/main/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+                "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 58018,
                 "MD5": "f5e79398daa1806f8b17311a3c782723",
-                "url": "https://github.com/SogimaYT/launcher-files/blob/main/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+                "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 13449765,
                 "MD5": "06030143bf86ca896fb6ccfd679b5760",
-                "url": "https://github.com/SogimaYT/launcher-files/blob/main/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+                "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 25365,
                 "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
-                "url": "https://github.com/SogimaYT/launcher-files/blob/main/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar"
+                "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 206575,
                 "MD5": "359c4a6743a082c689039482eed78670",
-                "url": "https://github.com/SogimaYT/launcher-files/blob/main/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar"
+                "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar"
               }
             },
             {
@@ -120,7 +120,7 @@
               "artifact": {
                 "size": 5538130,
                 "MD5": "1d88f665219e6006c5dd82d71c525c0f",
-                "url": "https://github.com/SogimaYT/launcher-files/blob/main/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+                "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
               }
             },
             {
@@ -130,7 +130,7 @@
               "artifact": {
                 "size": 419701,
                 "MD5": "4e694499c965af4a02599c99d4f0b196",
-                "url": "https://github.com/SogimaYT/launcher-files/blob/main/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+                "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
               }
             },
             {
@@ -140,7 +140,7 @@
               "artifact": {
                 "size": 4372892,
                 "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
-                "url": "https://github.com/SogimaYT/launcher-files/blob/main/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+                "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
               }
             },
             {
@@ -150,7 +150,7 @@
               "artifact": {
                 "size": 726500,
                 "MD5": "1009d69e4948045383f2a7a334348af5",
-                "url": "https://github.com/SogimaYT/launcher-files/blob/main/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+                "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
               }
             },
             {
@@ -160,7 +160,7 @@
               "artifact": {
                 "size": 648679,
                 "MD5": "c2d7e66495afe14545c31b21e99879ef",
-                "url": "https://github.com/SogimaYT/launcher-files/blob/main/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+                "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
               }
             },
             {
@@ -170,7 +170,7 @@
               "artifact": {
                 "size": 5762,
                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "https://github.com/SogimaYT/launcher-files/blob/main/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+                "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
               }
             },
             {
@@ -180,7 +180,7 @@
               "artifact": {
                 "size": 61311,
                 "MD5": "1372bd4823bb1ef61e7db6724f601150",
-                "url": "https://github.com/SogimaYT/launcher-files/blob/main/repo/lib/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar"
+                "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/repo/lib/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar"
               }
             },
             {
@@ -190,7 +190,7 @@
               "artifact": {
                 "size": 2243036,
                 "MD5": "89fef81c2adfa9b50a64ed5cd5d8c155",
-                "url": "https://github.com/SogimaYT/launcher-files/blob/main/repo/lib/com/google/guava/guava/17.0/guava-17.0.jar"
+                "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/repo/lib/com/google/guava/guava/17.0/guava-17.0.jar"
               }
             },
             {
@@ -200,7 +200,7 @@
               "artifact": {
                 "size": 412739,
                 "MD5": "3128bf75a2549ebe38663401191bacab",
-                "url": "https://github.com/SogimaYT/launcher-files/blob/main/repo/lib/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar"
+                "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/repo/lib/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar"
               }
             }
           ]
@@ -211,7 +211,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5239985,
-            "url": "https://github.com/SogimaYT/launcher-files/blob/main/servers/Naruto-1.7.10/forgemods/required/+unimixins-all-1.7.10-0.1.19.jar",
+            "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/servers/Naruto-1.7.10/forgemods/required/+unimixins-all-1.7.10-0.1.19.jar",
             "MD5": "f3c47bebe224ed677a9551265e9d7aa1"
           }
         },
@@ -221,7 +221,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2089120,
-            "url": "https://github.com/SogimaYT/launcher-files/blob/main/servers/Naruto-1.7.10/forgemods/required/Armourers-Workshop-1.7.10-0.48.5.jar",
+            "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/servers/Naruto-1.7.10/forgemods/required/Armourers-Workshop-1.7.10-0.48.5.jar",
             "MD5": "19885ea7a6b598516b4e7e467e32b2bb"
           }
         },
@@ -231,7 +231,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 865529,
-            "url": "https://github.com/SogimaYT/launcher-files/blob/main/servers/Naruto-1.7.10/forgemods/optionalon/crowHud.jar",
+            "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/servers/Naruto-1.7.10/forgemods/optionalon/crowHud.jar",
             "MD5": "1fbce2d2eef9470ff169cfc793ac272b"
           },
           "required": {
@@ -244,7 +244,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 17834817,
-            "url": "https://github.com/SogimaYT/launcher-files/blob/main/servers/Naruto-1.7.10/forgemods/required/CustomNPC-Plus-1.11.1.jar",
+            "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/servers/Naruto-1.7.10/forgemods/required/CustomNPC-Plus-1.11.1.jar",
             "MD5": "72c4fc0cf7c0df57a57f43c993442d8a"
           }
         },
@@ -254,7 +254,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15118442,
-            "url": "https://github.com/SogimaYT/launcher-files/blob/main/servers/Naruto-1.7.10/forgemods/required/DragonBlockC-v1.4.85.jar",
+            "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/servers/Naruto-1.7.10/forgemods/required/DragonBlockC-v1.4.85.jar",
             "MD5": "c50cf9fac71d3e851c2fc3e17ff72d48"
           }
         },
@@ -264,7 +264,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3572688,
-            "url": "https://github.com/SogimaYT/launcher-files/blob/main/servers/Naruto-1.7.10/forgemods/required/geckolib-unofficial-1.7.10-1.0.3.jar",
+            "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/servers/Naruto-1.7.10/forgemods/required/geckolib-unofficial-1.7.10-1.0.3.jar",
             "MD5": "422759795119fa69a3928d7884fe8764"
           }
         },
@@ -274,7 +274,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3798391,
-            "url": "https://github.com/SogimaYT/launcher-files/blob/main/servers/Naruto-1.7.10/forgemods/required/gkmodlib-of.jar",
+            "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/servers/Naruto-1.7.10/forgemods/required/gkmodlib-of.jar",
             "MD5": "e99ea9363954e53303b6e90b99ab1eee"
           }
         },
@@ -284,7 +284,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 129587,
-            "url": "https://github.com/SogimaYT/launcher-files/blob/main/servers/Naruto-1.7.10/forgemods/required/JBRA.jar",
+            "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/servers/Naruto-1.7.10/forgemods/required/JBRA.jar",
             "MD5": "3e12d9d4d5ee2aba58b0163337fd0a4c"
           }
         },
@@ -294,7 +294,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8931542,
-            "url": "https://github.com/SogimaYT/launcher-files/blob/main/servers/Naruto-1.7.10/forgemods/optionaloff/journeymap-1.7.10-5.2.7-unlimited.jar",
+            "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/servers/Naruto-1.7.10/forgemods/optionaloff/journeymap-1.7.10-5.2.7-unlimited.jar",
             "MD5": "9cbf4bb1a6eefd2490b81e7693f1bfb0"
           },
           "required": {
@@ -308,7 +308,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2535669,
-            "url": "https://github.com/SogimaYT/launcher-files/blob/main/servers/Naruto-1.7.10/forgemods/required/JRMCore.jar",
+            "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/servers/Naruto-1.7.10/forgemods/required/JRMCore.jar",
             "MD5": "fb7abf3588833f848f8b2da533f71b7b"
           }
         },
@@ -318,7 +318,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4803113,
-            "url": "https://github.com/SogimaYT/launcher-files/blob/main/servers/Naruto-1.7.10/forgemods/required/NarutoArcane.jar",
+            "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/servers/Naruto-1.7.10/forgemods/required/NarutoArcane.jar",
             "MD5": "3a3d3b9e7f48a21118b710300694db84"
           }
         },
@@ -328,7 +328,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 668768,
-            "url": "https://github.com/SogimaYT/launcher-files/blob/main/servers/Naruto-1.7.10/forgemods/required/NarutoArcane2.jar",
+            "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/servers/Naruto-1.7.10/forgemods/required/NarutoArcane2.jar",
             "MD5": "84f58dce70e7c395b10cbfe1cb24b6ad"
           }
         },
@@ -338,7 +338,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1332454,
-            "url": "https://github.com/SogimaYT/launcher-files/blob/main/servers/Naruto-1.7.10/forgemods/required/NarutoX.jar",
+            "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/servers/Naruto-1.7.10/forgemods/required/NarutoX.jar",
             "MD5": "fb4a32523560641d4adb585780d386d7"
           }
         },
@@ -348,7 +348,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5142184,
-            "url": "https://github.com/SogimaYT/launcher-files/blob/main/servers/Naruto-1.7.10/forgemods/required/npcdbc-1.2.1.jar",
+            "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/servers/Naruto-1.7.10/forgemods/required/npcdbc-1.2.1.jar",
             "MD5": "0c439bf1f14952c11fb797abbce0c84a"
           }
         },
@@ -358,7 +358,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 40687,
-            "url": "https://github.com/SogimaYT/launcher-files/blob/main/servers/Naruto-1.7.10/forgemods/required/npcgecko-1.2.jar",
+            "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/servers/Naruto-1.7.10/forgemods/required/npcgecko-1.2.jar",
             "MD5": "49017bffe49d82adac7922bd10c41e59"
           }
         },
@@ -368,7 +368,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2074272,
-            "url": "https://github.com/SogimaYT/launcher-files/blob/main/servers/Naruto-1.7.10/forgemods/required/rPresence.jar",
+            "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/servers/Naruto-1.7.10/forgemods/required/rPresence.jar",
             "MD5": "228ceee8cdd9dfbe90ced983517ee825"
           }
         },
@@ -378,7 +378,7 @@
           "type": "File",
           "artifact": {
             "size": 4702711,
-            "url": "https://github.com/SogimaYT/launcher-files/blob/main/servers/Naruto-1.7.10/files/resourcepacks/Arcane.zip",
+            "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/servers/Naruto-1.7.10/files/resourcepacks/Arcane.zip",
             "MD5": "3753c24212ce6dd7e0921c63eb119ac8",
             "path": "resourcepacks/Arcane.zip"
           }
@@ -389,7 +389,7 @@
           "type": "File",
           "artifact": {
             "size": 15155,
-            "url": "https://github.com/SogimaYT/launcher-files/blob/main/servers/Naruto-1.7.10/files/servers.dat",
+            "url": "https://github.com/SogimaYT/launcher-files/raw/refs/heads/main/servers/Naruto-1.7.10/files/servers.dat",
             "MD5": "38c647659fe467b104b52a9753e36913",
             "path": "servers.dat"
           }
