@@ -9,8 +9,8 @@
   "servers": [
     {
       "id": "Naruto-1.7.10",
-      "name": "Arcane (Minecraft 1.7.10)",
-      "description": "Arcane Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
+      "name": "Naruto",
+      "description": "Naruto Arcane (1.7.10)",
       "icon": "https://i.imgur.com/JIXpxAS.jpeg",
       "version": "1.0.0",
       "address": "51.222.255.229:10138",
